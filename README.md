@@ -21,7 +21,7 @@
 | 07 | [Legal & Compliance](./guide/07-legal-compliance.md) | Permissions, releases, what not to film |
 | 08 | [Content Strategy & Ideas](./guide/08-content-strategy.md) | Pillars, calendar, 50+ content ideas |
 | 09 | [Quick Reference Cards](./guide/09-quick-reference.md) | One-page checklists for job sites |
-| 10 | [Templates & Forms](./10-templates.md) | Release forms, naming conventions |
+| 10 | [Templates & Forms](./guide/10-templates.md) | Release forms, naming conventions |
 
 ---
 
@@ -38,7 +38,7 @@
 3. Create first edit using brand template
 
 ### Day 5: Launch
-1. Get client permission ([Templates](./10-templates.md))
+1. Get client permission ([Templates](./guide/10-templates.md))
 2. Post first Reel
 3. Review [Instagram Strategy](./guide/05-instagram-strategy.md) for optimization
 
